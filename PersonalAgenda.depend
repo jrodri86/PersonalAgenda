@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508478200 source:c:\users\josman\desktop\udemy\c++\personalagenda\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+
